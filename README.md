@@ -1,5 +1,15 @@
 # Java 파사드 패턴 (Facade Pattern)
 
+# 목차
+
+1. [Java 파사드 패턴 (Facade Pattern)](#java-파사드-패턴-facade-pattern)
+   1.1 [파사드 패턴이란?](#파사드-패턴이란)
+   1.2 [파사드 패턴의 효과](#파사드-패턴의-효과)
+   1.3 [예제 코드](#예제-코드)
+   1.4 [실행 결과](#실행-결과)
+   1.5 [참고](#참고)
+
+
 ## 파사드 패턴이란?
 
 파사드 패턴은 서브 시스템을 보다 쉽게 쓸 수 있도록 높은 수준의 인터페이스를 정의하는 작업으로, 이미 수많은 API 서비스와 라이브러리, 패키지에서 파사드 패턴을 응용 중이다.
@@ -150,7 +160,7 @@ public class TestPattern {
 ![image](https://github.com/auspicious0/Facade_Pattern/assets/108572025/5b0fe9cd-47b0-4fd1-92d7-b38d304fa905)
 
 
-## 출저
+## 참고
 
 출처: https://hirlawldo.tistory.com/172 [노바의 개발도서관:티스토리]
 
