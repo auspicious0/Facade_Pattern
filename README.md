@@ -144,6 +144,16 @@ public class TestPattern {
     }
 }
 ```
+
+## 실행 결과
+
+![image](https://github.com/auspicious0/Facade_Pattern/assets/108572025/5b0fe9cd-47b0-4fd1-92d7-b38d304fa905)
+
+
+## 출저
+
 출처: https://hirlawldo.tistory.com/172 [노바의 개발도서관:티스토리]
+
 출처: https://break-over.tistory.com/47 [만들어가는 세상:티스토리]
+
 
